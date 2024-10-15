@@ -26,8 +26,9 @@
 <h3>Occlusion and LOD Optimization (Underway)</h3>
 <p align="justify">Occlusion culling and Level of Detail (LOD) optimization techniques are actively being developed to enhance performance without sacrificing visual quality. By dynamically adjusting the level of detail based on the player's distance from objects, and by occluding non-visible objects from rendering, the system ensures that the game runs smoothly even in highly detailed scenes.</p>
 
-<h3>aHDRP Advanced PostProcessing</h3>
+<h3>HDRP Advanced PostProcessing</h3>
 <p align="justify">Advanced post-processing techniques have been implemented to elevate the game's visual appeal. Features like bloom, depth of field, motion blur, and color grading are finely tuned to create a cinematic atmosphere that enhances the overall gameplay experience. These effects allow the game to simulate real-life camera behaviors, adding another layer of realism.</p>
+![HDRP Optimization n Environment Processing](https://github.com/user-attachments/assets/25fb6885-33a9-4da5-8e7d-aa81a691e8eb)
 
 <h3>What I Learned</h3>
 <p align="justify">This project provided valuable insights into the HDRP's capabilities and how to optimize complex environments for performance. I learned how to effectively implement advanced lighting techniques, optimize shaders and materials, and utilize post-processing to create visually stunning results. Additionally, I gained experience in performance optimization through occlusion culling and LOD systems, which are crucial for maintaining smooth gameplay in high-fidelity environments.</p>
