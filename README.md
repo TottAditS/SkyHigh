@@ -28,6 +28,7 @@
 
 <h3>HDRP Advanced PostProcessing</h3>
 <p align="justify">Advanced post-processing techniques have been implemented to elevate the game's visual appeal. Features like bloom, depth of field, motion blur, and color grading are finely tuned to create a cinematic atmosphere that enhances the overall gameplay experience. These effects allow the game to simulate real-life camera behaviors, adding another layer of realism.</p>
+
 ![HDRP Optimization n Environment Processing](https://github.com/user-attachments/assets/25fb6885-33a9-4da5-8e7d-aa81a691e8eb)
 
 <h3>What I Learned</h3>
